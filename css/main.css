@@ -1,0 +1,13 @@
+h1 {
+    color: black;
+    padding: 5px;
+}   
+
+#snake {
+    color: red;
+}
+
+footer {
+    padding-top: 10px;
+    line-height: 50%;
+}
